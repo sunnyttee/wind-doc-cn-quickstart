@@ -10,19 +10,19 @@
 领取教程
 
 
-1.进入[官网](https://www.windprotocol.org/)  ，点击左下角V2图标，跳转后点击Solcrystol
+1.进入[官网](https://windmetaverse.com/) ,点击**Reward**
 
-![image2.gif](src/img/img_get_SOC/image2.gif)
+![image2.gif](src/img/img_get_SOC/getSOC.JPG)
 
-2.点击Solcrystol，点击链接你的钱包
+2.点击链接你的钱包
 
-![image3.png](src/img/img_get_SOC/image3.png)
+![image3.png](src/img/img_get_SOC/2.JPG)
 
-3.钱包链接成功后，点击Claim
+3.钱包链接成功后，点击**Claim Reward**
 
-![image5.gif](src/img/img_get_SOC/image5.gif)
+![image5.gif](src/img/img_get_SOC/3.JPG)
 
-4.再次点击钱包的确认，等待交互成功。
+4.再次点击钱包的**批准**，等待交互成功。
 
 ![image1.png](src/img/img_get_SOC/image1.png)
 

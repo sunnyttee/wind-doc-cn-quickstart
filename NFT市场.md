@@ -4,9 +4,13 @@
 
 ---
 
-### Palace NFT市场
+### s0l NFT市场
 
-- Palace 是去中心化, 零手续的 NFT 交易平台
+[twitter](https://twitter.com/S0l_dex)
+
+[官网](https://S0l.xyz)
+
+- s0l 是去中心化, 零手续的 NFT 交易平台
   - 包括一级(全新发售)和二级流通市场.
   - 有专职开发和运营; 将有独立的网站和 Discord 群.
   - 有配套的 NFT 发行辅助工具
