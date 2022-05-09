@@ -27,6 +27,6 @@
 
 ### 场景展示
 
-  ![1.JPG](src/img/EGO/1.JPG)
-  ![2.JPG](src/img/EGO/2.JPG)
-  ![3.JPG](src/img/EGO/3.JPG)
+  ![1.JPG](src/img/EGO/1.jpg)
+  ![2.JPG](src/img/EGO/2.jpg)
+  ![3.JPG](src/img/EGO/3.jpg)
