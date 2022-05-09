@@ -39,3 +39,5 @@
 - 已经有小伙伴抽奖抽到,空投一枚 (面包BOO, 前排左5)
 
 ![已经制作出来的 Wind-BOO](https://github.com/sunnyttee/wind-doc-cn-quickstart/raw/by.mingzhe/src/img/BOO/1.jpg)
+
+**备注: 以上信息仅供参考，请以官方发布为准.**
