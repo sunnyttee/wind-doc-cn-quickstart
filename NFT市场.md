@@ -32,11 +32,13 @@
 
 - 为`S0L.xyz`[平台](#S0L)开发筹集资金 (目测 ~200 SOL 的量级)
 - 拥有者获得平台福利和盈利分成
-- 最终发行量和价格还没有确定 (目前消息, 大概 300 个, 0.5-1 SOL 的价格)
-- 5月中旬开放铸造池
-- 对 `Wind` 社区的优惠([推文](https://twitter.com/windmetaverse/status/1522411764670894080)): 15 个, mint 价格 3000 SOC
-- 少量预留给团队和对社区有贡献的小伙伴
-- 已经有小伙伴抽奖抽到,空投一枚 (面包BOO, 前排左5)
+- 发行总量 300 枚
+   - 200枚BOO, 1 $SOL mint
+   - 30枚BOO, 2000 $SOC mint (社区优惠)
+   - 20枚BOO, RESERVE (保留)
+   - 50枚BOO, whitelist 0.5 $SOL mint (白名单优惠)
+- 铸造池开放时间: 2022-06-01
+- 已经有小伙伴抽奖抽到,空投2+枚 (包括"面包"BOO, 前排左5)
 
 ![已经制作出来的 Wind-BOO](https://github.com/sunnyttee/wind-doc-cn-quickstart/raw/by.mingzhe/src/img/BOO/1.jpg)
 
